@@ -1,0 +1,39 @@
+﻿# Local ERP configuration and credentials
+dolibarr/htdocs/conf/conf.php
+dolibarr/htdocs/conf/conf.php.backup
+dolibarr/htdocs/conf/conf.php.old
+dolibarr/htdocs/conf/*.backup
+
+# Database backups and exports
+database_backups/
+*.sql
+*.sql.gz
+*.dump
+
+# Local Dolibarr runtime and generated data
+dolibarr_documents/
+php/
+
+# Temporary and diagnostic scripts
+check_config.php
+check_database.php
+check_install_flags.php
+check_install_state.php
+inspect_install_flag.php
+repair_install_flag.php
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Temporarily exclude viva instructions pending credential cleanup
+Part_A_ERP/Documentation/Viva_Demonstration_Instructions.md
+
+# Local Dolibarr installation (not required in submission repository)
+dolibarr/
+
+# Temporarily exclude report pending credential cleanup
+Project_Completion_Report.md

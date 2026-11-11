@@ -1,0 +1,24 @@
+PO_Ref,PO_Date,Supplier_Name,Product_Ref,Product_Name,Quantity,Unit_Cost_INR,Subtotal_HT_INR,Total_TTC_INR,PO_Status,Responsible_Member
+PO2611-0001,,"CameraWorld Distributors",CAM-001,"DSLR Camera X1",2,32000.00000000,64000.00000000,75520.00000000,"Completely Received",Skanda
+PO2611-0001,,"CameraWorld Distributors",CAM-002,"Mirrorless Camera M1",2,55000.00000000,110000.00000000,129800.00000000,"Completely Received",Skanda
+PO2611-0001,,"CameraWorld Distributors",360-001,"360-Degree Video Booth Platform 100cm",2,60000.00000000,120000.00000000,141600.00000000,"Completely Received",Skanda
+PO2611-0001,,"CameraWorld Distributors",PB-004,"Instant Photo Printer",2,28000.00000000,56000.00000000,66080.00000000,"Completely Received",Skanda
+PO2610-0002,,"ProLight Systems",LGT-001,"Professional Bi-Color LED Studio Panel",4,12500.00000000,50000.00000000,59000.00000000,"Completely Received",Sujal
+PO2610-0002,,"ProLight Systems",LGT-002,"Studio Octagon Softbox 90cm",4,4200.00000000,16800.00000000,19824.00000000,"Completely Received",Sujal
+PO2610-0003,,"PrintTech Supplies",CON-001,"Instant Photo Paper Pack (500 Sheets)",20,2100.00000000,42000.00000000,49560.00000000,"Completely Received",Shreyank
+PO2610-0003,,"PrintTech Supplies",CON-002,"Printer Ink Cartridge Ribbon",15,3200.00000000,48000.00000000,56640.00000000,"Completely Received",Shreyank
+PO2611-0004,,"EventGear India",PB-006,"Custom Modular Backdrop Stand",3,5500.00000000,16500.00000000,19470.00000000,Approved,Vainik
+PO2611-0004,,"EventGear India",360-004,"LED Lighting Ring 360",4,8000.00000000,32000.00000000,37760.00000000,Approved,Vainik
+PO2611-0004,,"EventGear India",ACC-005,"Keepsake Photo Frame Pack (50 pcs)",5,1500.00000000,7500.00000000,8850.00000000,Approved,Vainik
+PO2611-0005,,"LensPro Equipment Suppliers",LENS-001,"Wide-Angle Camera Lens 16-35mm",3,25000.00000000,75000.00000000,88500.00000000,"Completely Received",Skanda
+PO2611-0005,,"LensPro Equipment Suppliers",LENS-002,"Portrait Camera Lens 85mm f/1.4",3,30000.00000000,90000.00000000,106200.00000000,"Completely Received",Skanda
+PO2611-0006,,"CameraWorld Distributors",ACC-002,"High-Capacity Camera Battery",10,2200.00000000,22000.00000000,25960.00000000,"Completely Received",Sujal
+PO2611-0006,,"CameraWorld Distributors",ACC-003,"Memory Card 128GB High-Speed",10,2800.00000000,28000.00000000,33040.00000000,"Completely Received",Sujal
+PO2611-0007,,"ProLight Systems",LGT-003,"Wireless RGB Event Light Tube",6,6500.00000000,39000.00000000,46020.00000000,Approved,Shreyank
+PO2611-0007,,"ProLight Systems",PB-005,"Photobooth Ring Light 18""",3,4800.00000000,14400.00000000,16992.00000000,Approved,Shreyank
+PO2611-0008,,"PrintTech Supplies",PB-004,"Instant Photo Printer",2,28000.00000000,56000.00000000,66080.00000000,"Completely Received",Vainik
+PO2611-0008,,"PrintTech Supplies",CON-001,"Instant Photo Paper Pack (500 Sheets)",15,2100.00000000,31500.00000000,37170.00000000,"Completely Received",Vainik
+PO2611-0009,,"EventGear India",360-003,"Motorised Camera Arm",2,19000.00000000,38000.00000000,44840.00000000,Approved,Skanda
+PO2611-0009,,"EventGear India",360-005,"Slow-Motion Video Booth System",1,45000.00000000,45000.00000000,53100.00000000,Approved,Skanda
+PO2611-0010,,"LensPro Equipment Suppliers",CAM-003,"Professional 4K Video Camera",1,90000.00000000,90000.00000000,106200.00000000,"Completely Received",Sujal
+PO2611-0010,,"LensPro Equipment Suppliers",ACC-001,"Heavy-Duty Camera Tripod",2,4200.00000000,8400.00000000,9912.00000000,"Completely Received",Sujal
