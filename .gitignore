@@ -37,3 +37,14 @@ dolibarr/
 
 # Temporarily exclude report pending credential cleanup
 Project_Completion_Report.md
+
+# Sensitive local browser profile and diagnostic files
+/temp_edge_prof/
+test_auth.php
+test_cdp.py
+test_cdp_auth.py
+test_cookies.txt
+query_db_details.php
+
+# Local project backups
+/SNAPSTATION_FINAL_SUBMISSION_BACKUP_20261117_152307/
